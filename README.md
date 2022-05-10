@@ -3,3 +3,6 @@
 
 
 2.Determining the zero of a given function The program is based on the following methods: half division, chord, Newton
+
+
+3.Program of numerical solution of the System of Linear Algebraic Equations, which is based on the Cramer method
