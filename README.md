@@ -6,3 +6,6 @@
 
 
 3.Program of numerical solution of the System of Linear Algebraic Equations, which is based on the Cramer method
+
+
+4.Program for calculating the table of a derivative function in one of the algorithmic languages, using interpolation and approximation methods
