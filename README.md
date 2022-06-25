@@ -9,3 +9,6 @@
 
 
 4.Program for calculating the table of a derivative function in one of the algorithmic languages, using interpolation and approximation methods.
+
+
+5.Numerical integration program (5 different algorithm).
