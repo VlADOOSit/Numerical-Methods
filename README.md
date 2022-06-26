@@ -12,3 +12,6 @@
 
 
 5.Numerical integration program (5 different algorithm).
+
+
+6.Program of numerical integration of the ordinary differential equation with the initial condition (Euler, and Runge – Kutta).
